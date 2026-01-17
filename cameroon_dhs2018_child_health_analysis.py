@@ -8,7 +8,7 @@ and socio-economic determinants based on DHS 2018 data.
 Charts generated in French (DHS official) and English (modern) styles.
 All data extracted programmatically from Excel files.
 
-Author: Matrix Agent
+Author: Momeni Gilles
 Date: January 2026
 """
 
@@ -539,7 +539,7 @@ print("="*70)
 report_content = f"""# Child Health Analysis Report
 ## Cameroon Demographic and Health Survey 2018
 
-**Author:** Matrix Agent  
+**Author:** Momeni Gilles  
 **Date:** January 2026  
 **Data Sources:** Tables_DIAR.xls, Tables_ARI_FV.xls, Tables_Size.xls
 
